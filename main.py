@@ -47,7 +47,6 @@ while loopCt < maxLoop and havingMoney > 0:
         f.write('破産しました\n')
 
 
-
 f.close()
 
 
